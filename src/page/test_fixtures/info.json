@@ -1,0 +1,11 @@
+{
+"identifier" : "/7445/74453044.5.jp2",
+"width" : 2500,
+"height" : 14124,
+"scale_factors" : [ 1, 2, 4, 8, 16, 32, 64 ],
+"tile_width" : 256,
+"tile_height" : 256,
+"formats" : [ "jpg" ],
+"qualities" : [ "native" ],
+"profile" : "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
+}
